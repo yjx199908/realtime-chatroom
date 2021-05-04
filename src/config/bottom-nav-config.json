@@ -1,0 +1,24 @@
+{
+    "styleConfig":{
+        "itemWidth":"8em",
+        "bgStyle":"translate",
+        "fontColor":"white"
+    },
+    "main_list":[
+        {
+            "text":"入口"
+        },
+        {
+            "text":"世界广播"
+        },
+        {
+            "text":"圈子聊天室"
+        },
+        {
+            "text":"私人聊天室"
+        },
+        {
+            "text":"个人资料"
+        }
+    ]
+}
